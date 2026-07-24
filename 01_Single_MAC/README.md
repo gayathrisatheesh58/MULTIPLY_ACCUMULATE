@@ -1,4 +1,4 @@
-# Project 01 - Single Multiply-Accumulate (MAC)
+# 01 - Single Multiply-Accumulate (MAC)
 
 ## Overview
 
