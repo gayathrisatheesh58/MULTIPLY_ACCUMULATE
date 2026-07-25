@@ -11,7 +11,6 @@
 | Project Number | 01 |
 | Design Language | Verilog HDL |
 | Development Tool | Xilinx Vivado ML Standard 2025.2 |
-| Simulation Tool | XSim |
 | Target FPGA | Xilinx Zynq-7000 (xc7z010clg400-1) |
 | Verification Method | Self-checking Testbench |
 
