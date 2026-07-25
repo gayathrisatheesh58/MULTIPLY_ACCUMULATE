@@ -5,7 +5,7 @@
 
 ## Project Information
 
-| -- | -- |
+
 |-----------|-------|
 | Project Name | Single Multiply-Accumulate (MAC) Unit |
 | Project Number | 01 |
